@@ -1,0 +1,17 @@
+{
+  "name": "shopping-car-api",
+  "version": "1.0.0",
+  "description": "Projeto para treinar redux",
+  "main": "index.js",
+  "author": "Vinicius nunes catarino",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.5"
+  }
+}
